@@ -253,3 +253,7 @@ Guardians of the Galaxy
 ![error](./images/error.jpg)
 
 ***
+
+Without requirements or design, programming is an art of adding bugs to an empty text file.
+
+***
